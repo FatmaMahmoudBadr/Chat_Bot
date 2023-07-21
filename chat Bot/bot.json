@@ -1,0 +1,50 @@
+[
+  {
+    "title":"greetings",
+    "user_input":["hi","hello","hey"],
+    "response":"Hello",
+    "required_words":[]
+  },
+  {
+    "title":"greetings",
+    "user_input":["nice","to","meet","you"],
+    "response":"I'm glad I met you",
+    "required_words":["nice","meet"]
+  },
+  {
+    "title":"greetings",
+    "user_input":["see you","see you later","goodbye","bye"],
+    "response":"see you later!",
+    "required_words":[]
+  },
+  {
+    "title":"question",
+    "user_input":["how", "are", "you"],
+    "response":"I'm great! Thanks for asking.",
+    "required_words":["how", "are", "you"]
+  },
+  {
+    "title":"question",
+    "user_input":["have","questions","can","i","ask","you","help","me"],
+    "response":"of course, ask your question",
+    "required_words":[]
+  },
+  {
+    "title":"question",
+    "user_input":["are","you","human","robot"],
+    "response":"I am a robot.",
+    "required_words":[]
+  },
+  {
+    "title":"question",
+    "user_input":["how","many","people","can","you","speak","to", "at","once"],
+    "response":"just one person.",
+    "required_words":[]
+  },
+  {
+    "title":"question",
+    "user_input":["where","can","i","find","job"],
+    "response":"you can find at linkedin",
+    "required_words":[]
+  }
+]
